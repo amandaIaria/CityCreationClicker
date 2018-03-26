@@ -46,6 +46,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\entities\General\scripts\DrawSpace.cs" />
      <Compile Include="Assets\entities\General\scripts\FadeInandFadeOut.cs" />
      <Compile Include="Assets\entities\General\scripts\LevelManager.cs" />
      <Compile Include="Assets\entities\General\scripts\MusicManager.cs" />
